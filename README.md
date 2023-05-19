@@ -7,6 +7,7 @@
   Youtube - Thorn 
   Twitter - Thorn_BAke115 
   Discord - https://discord.gg/AnQU2txgpQ
+  Email - rstyler140@gmail.com
 
 <!---
 ThornDev115/ThornDev115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
